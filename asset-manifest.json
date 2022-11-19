@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MovieHunt/static/css/main.0165d65f.css",
+    "main.js": "/MovieHunt/static/js/main.8d6a374a.js",
+    "index.html": "/MovieHunt/index.html",
+    "main.0165d65f.css.map": "/MovieHunt/static/css/main.0165d65f.css.map",
+    "main.8d6a374a.js.map": "/MovieHunt/static/js/main.8d6a374a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0165d65f.css",
+    "static/js/main.8d6a374a.js"
+  ]
+}
