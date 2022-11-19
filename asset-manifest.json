@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MovieHunt/static/css/main.0165d65f.css",
-    "main.js": "/MovieHunt/static/js/main.8d6a374a.js",
+    "main.css": "/MovieHunt/static/css/main.33f83e01.css",
+    "main.js": "/MovieHunt/static/js/main.22c8390b.js",
     "index.html": "/MovieHunt/index.html",
-    "main.0165d65f.css.map": "/MovieHunt/static/css/main.0165d65f.css.map",
-    "main.8d6a374a.js.map": "/MovieHunt/static/js/main.8d6a374a.js.map"
+    "main.33f83e01.css.map": "/MovieHunt/static/css/main.33f83e01.css.map",
+    "main.22c8390b.js.map": "/MovieHunt/static/js/main.22c8390b.js.map"
   },
   "entrypoints": [
-    "static/css/main.0165d65f.css",
-    "static/js/main.8d6a374a.js"
+    "static/css/main.33f83e01.css",
+    "static/js/main.22c8390b.js"
   ]
 }
